@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "terminal.integrated.fontSize": 14,
+    "python.pythonPath": "C:\\Users\\Godfrey\\Anaconda3\\envs\\tensorflow\\python.exe"
+}
